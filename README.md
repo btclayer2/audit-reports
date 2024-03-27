@@ -12,7 +12,7 @@ This repository contains all completed audit reports, organized by date and proj
 
 | Project Name                               | Date           | Auditor        |
 |--------------------------------------------|----------------|----------------|
-| [BEVM ]()    | Mar 2024  | SUPREMACY |
+| [BEVM Chain](https://github.com/btclayer2/audit-reports/blob/main/Audit-Report-BEVM-v1.0.pdf)    | Mar 2024  | SUPREMACY |
 
 
 
